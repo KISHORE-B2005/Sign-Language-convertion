@@ -4,6 +4,10 @@
 - Abstract
 - Project Overview
 - Features
+- Architecture diagram
+- Sign-Language Examples
+- Demo
+- Result
 ## Aim:
 - The aim of this project is to develop a real-time Sign Language Conversion System that recognizes hand gestures and converts them into meaningful text or speech, enabling effective communication between hearing-impaired individuals and people who do not understand sign language. The system uses machine learning, hand landmark detection, and Python-based technologies to achieve accurate gesture recognition.
 ## Abstract:
@@ -20,8 +24,13 @@
 ## Architecture Diagram:
 <img width="610" height="666" alt="image" src="https://github.com/user-attachments/assets/15610faf-3b05-41d4-be0c-b3e9d2cc5c9b" />
 
+## Sign-Language Examples:
+<img width="2000" height="1600" alt="signlanguage" src="https://github.com/user-attachments/assets/112b8f47-b8d6-4422-aa8c-a27c04e55efa" />
+
 ##  Demo
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 081626" src="https://github.com/user-attachments/assets/0c683a49-ab63-4d2f-b686-aab2fc23bf04" />
+
+#### The Demo video was uploaded as a seperate file if u want check it out
 
 ##  Results
 
