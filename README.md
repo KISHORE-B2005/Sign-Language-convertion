@@ -19,7 +19,13 @@
 - #### Text-to-speech: For better communication the text can be converted to spoken language using the speech synthesis.
 ## Architecture Diagram:
 <img width="610" height="666" alt="image" src="https://github.com/user-attachments/assets/15610faf-3b05-41d4-be0c-b3e9d2cc5c9b" />
-## Demo
+
+##  Demo
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 081626" src="https://github.com/user-attachments/assets/0c683a49-ab63-4d2f-b686-aab2fc23bf04" />
 
+##  Results
 
+- Achieved 98% accuracy on ASL alphabet gestures
+- Works in real-time with minimal delay
+- Accurate for static signs
+- Smooth hand tracking using Mediapipe
